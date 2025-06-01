@@ -1,0 +1,2 @@
+2025-06-01 16:51:54,983 - WARNING - Missing Services in this cluster, Need to add services:{'resourcemanager', 'nodemanager', 'hiveserver2'}
+2025-06-01 17:05:28,478 - WARNING - Missing Services in this cluster, Need to add services:{'nodemanager'}

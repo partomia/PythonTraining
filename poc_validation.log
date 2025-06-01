@@ -1,0 +1,4 @@
+2025-06-01 22:49:06,993 - ERROR - Error reading config file: [Errno 2] No such file or directory: 'node_config.txt'
+2025-06-01 22:49:06,993 - INFO - Validation result for CPU=0, RAM=0.0: ❌ Not eligible. Upgrade system.
+2025-06-01 22:50:21,100 - INFO - Validation result for CPU=8, RAM=32.0: ✅ Eligible for Cloudera PoC
+2025-06-01 22:50:45,019 - INFO - Validation result for CPU=1, RAM=2.0: ❌ Not eligible. Upgrade system.

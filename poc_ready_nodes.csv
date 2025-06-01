@@ -1,0 +1,3 @@
+hostname,cpu_cores,ram_gb,poc_ready
+worker1,4,16,True
+worker3,8,64,True

@@ -1,0 +1,8 @@
+2025-05-31 23:29:55,841 - ERROR - Invalid input error: invalid literal for int() with base 10: 'ravi'
+2025-05-31 23:29:57,686 - ERROR - Invalid input error: invalid literal for int() with base 10: 'ramesh'
+2025-05-31 23:32:30,637 - ERROR - Invalid input error: invalid literal for int() with base 10: 'test'
+2025-05-31 23:32:34,590 - ERROR - Invalid input error: invalid literal for int() with base 10: 'why'
+Traceback (most recent call last):
+  File "/Users/rsingh/Downloads/py_aws/PythonTraining/day1_assigment.py", line 23, in <module>
+    age = int(input("Enter your age: ").strip())  # if you enter "abc", it crashes
+ValueError: invalid literal for int() with base 10: 'why'

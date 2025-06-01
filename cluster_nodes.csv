@@ -1,0 +1,4 @@
+hostname,cpu_cores,ram_gb
+worker1,4,16
+worker2,2,8
+worker3,8,64
